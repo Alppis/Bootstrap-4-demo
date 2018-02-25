@@ -116,7 +116,8 @@ body, html {
 
 .card-custom {
     border: none;
-    box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2)
+    box-shadow: 0 4px 6px 0 hsla(0, 0%, 0%, 0.2);
+    margin-bottom: 1rem;
 }
 
 .card-title {
